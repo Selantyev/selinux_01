@@ -59,7 +59,7 @@ http {
 
 Jan 24 08:49:01 selinux systemd[1]: Starting The nginx HTTP and reverse proxy server...
 Jan 24 08:49:01 selinux nginx[256874]: nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
-Jan 24 08:49:01 selinux nginx[256874]: nginx: [emerg] bind() to 0.0.0.0:8880 failed (13: Permission denied)
+Jan 24 08:49:01 selinux nginx[256874]: nginx: [emerg] bind() to 0.0.0.0:8088 failed (13: Permission denied)
 Jan 24 08:49:01 selinux nginx[256874]: nginx: configuration file /etc/nginx/nginx.conf test failed
 Jan 24 08:49:01 selinux systemd[1]: nginx.service: Control process exited, code=exited status=1
 Jan 24 08:49:01 selinux systemd[1]: nginx.service: Failed with result 'exit-code'.
